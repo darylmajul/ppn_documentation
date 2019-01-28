@@ -11,7 +11,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='usage'></a>API Usage
+### <a id='usage' name='usage'></a>API Usage
 
 * Partners must use all the content provided by the hotel API feed, this includes but is not limited to rate information, hotel name/address, hotel details such as descriptive information, star rating, a list of nearby attractions, a list of directions from different points of interest, a list of the property’s amenities, etc.
 * It is expected that all hotel content presented by the partner will be the most current and up to date. The partner will be responsible for all associated costs as a result of stale content.
@@ -21,7 +21,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='rules'></a>Business Rules
+### <a id='rules' name='rules'></a>Business Rules
 
 * Rooms must be reserved under the name of the person checking into the room.
 * The reservation holder must be 21 years of age or older.
@@ -31,7 +31,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='search'></a>Hotel Search
+### <a id='search' name='search'></a>Hotel Search
 ![Hotel Search](Assets/Launch%20Requirements/Hotel%20Search.png)
 
 #### Requirements 
@@ -54,7 +54,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='results'></a>Results Page
+### <a id='results' name='results'></a>Results Page
 ![Results Page](Assets/Launch%20Requirements/Hotel%20Results%20Page.png)
 
 * Show all the available hotels within a city/area
@@ -74,7 +74,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='details'></a>Hotel Details Page
+### <a id='details' name='details'></a>Hotel Details Page
 ![Hotel Details Page](Assets/Launch%20Requirements/Hotel%20Details%20Page.png)
 
 * Typically contains hotel name, address, description, amenities, reviews, ratings, etc.
@@ -91,7 +91,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='contract'></a>Contract Page
+### <a id='contract' name='contract'></a>Contract Page
 
 ![Contract Page](Assets/Launch%20Requirements/Contract%20Page%20-%20Summary.png)
 
@@ -143,7 +143,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='confirmation'></a>Confirmation Page
+### <a id='confirmation' name='confirmation'></a>Confirmation Page
 ![Confirmation Page](Assets/Launch%20Requirements/Confirmation%20Page.png)
 
 * All of the same information that is displayed on the Contract Page must also be displayed on the Confirmation Page. 
@@ -161,7 +161,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='email'></a>Confirmation Email
+### <a id='email' name='email'></a>Confirmation Email
 
 ![Confirmation Email](Assets/Launch%20Requirements/Confirmation%20Email.png)![Confirmation Email Customer Info](Assets/Launch%20Requirements/Confirmation%20Email%20Customer%20Info.png)
 
