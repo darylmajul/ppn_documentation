@@ -1,5 +1,3 @@
-[Home](home.md) | [Getting Started](getting-started.md) | [Documentation](docs-air.md) | [Guides](guides-air.md) | [Updates](updates.md) | [Support](support.md)
-
 # API Documentation
 
 [Air](docs-air.md) | [Hotel](docs-hotel.md) | [Car Rentals](docs-car.md)

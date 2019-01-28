@@ -1,5 +1,3 @@
-[Home](home.md) | [Getting Started](getting-started.md) | [Documentation](docs-air.md) | [Guides](guides-air.md) | [Updates](updates.md) | [Support](support.md)
-
 # Getting Started
 
 ### 1. Sign up for a Priceline Partner account
@@ -18,7 +16,7 @@ If you are an existing Priceline Partner who is looking to begin developing with
 
 Have your developers get familiar with our API guides and documentation which outline how to get access to our inventory and create new bookings.
 
-[Development Guides](guides-air.md) | [API Documentation](docs-air.md)
+[Development Guides](guides.md) | [API Documentation](/documentation)
 
 ### 4. Build your site or application
 
