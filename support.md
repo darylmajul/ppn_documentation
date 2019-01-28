@@ -1,7 +1,5 @@
 # Support
 
-[Support](support.md) | [Terminology](support-terms.md) | [FAQ](support-faq.md) | [Contact Us](support-contact.md)
-
 --------------------
 
 ### Terminology
