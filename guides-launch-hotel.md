@@ -1,11 +1,3 @@
-[Home](home.md) | [Getting Started](getting-started.md) | [Documentation](docs-air.md) | [Guides](guides-air.md) | [Updates](updates.md) | [Support](support.md)
-
-# Guides
-
-[Air](guides-air.md) | [Hotel](guides-hotel.md) | [Car Rentals](guides-car.md) 
-
-------------
-
 ## Hotel
 
 ### Launch Requirement
