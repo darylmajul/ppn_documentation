@@ -1,6 +1,4 @@
 
---------------------
-
 ## Terminology
 
 #### Agency rates    
