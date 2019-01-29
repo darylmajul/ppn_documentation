@@ -1,4 +1,6 @@
-## Hotel
+## Hotel Guides
+
+This is your starting point for API development. Prior to using the online API documentation, it is necessary to comprehend the basic booking flow and launch requirements.                    
 
 ### Rate Types
 
