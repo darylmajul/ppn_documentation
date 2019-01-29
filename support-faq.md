@@ -1,5 +1,4 @@
 
---------------------
 
 ## Frequently Asked Questions
 
