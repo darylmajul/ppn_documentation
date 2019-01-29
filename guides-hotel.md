@@ -1,7 +1,5 @@
 ## Hotel Guides
 
-This is your starting point for API development. Prior to using the online API documentation, it is necessary to comprehend the basic booking flow and launch requirements.                    
-
 ### Rate Types
 
 This API feature 2 different types of rates, merchant and closed user group (CUG). The methods for implementing these are different.
