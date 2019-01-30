@@ -1,11 +1,3 @@
-[Home](home.md) | [Getting Started](getting-started.md) | [Documentation](docs-air.md) | [Guides](guides-air.md) | [Updates](updates.md) | [Support](support.md)
-
-# Guides
-
-[Air](guides-air.md) | [Hotel](guides-hotel.md) | [Car Rentals](guides-car.md) 
-
-------------
-
 ## Car
 
 ### Launch Requirement
@@ -15,7 +7,7 @@ Partners who join the Priceline Partner Network to sell inventory are required t
 These documents contains screenshots for illustration purposes only. The actual design of the pages is up to the partner; however, the required elements described below must be included in the design. Partners are encouraged to review the [ppndemo.com](https://secure.rezserver.com/home/?refid=2999) website to better understand the requirements below.
 
 ###### In this document  
-[Important Tips](#tips) | [Results Page](#results) | [Hotel Details Page](#details) | [Contract Page](#contract) | [Confirmation Page](#confirmation) | [Confirmation Email](#email)
+[Important Tips](#tips) | [Results Page](#results) | [Hotel Details Page](#details) | [Contract Page](#contract) | [Confirmation Page](#success) | [Confirmation Email](#email)
 
 -----------
 

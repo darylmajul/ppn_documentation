@@ -1,4 +1,4 @@
-## Hotel
+## Hotel Guides
 
 ### Rate Types
 
