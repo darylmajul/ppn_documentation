@@ -8,7 +8,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a id='usage' name='usage'></a>API Usage
+### <a class='anchor' name='usage'></a>API Usage
 
 * Partners must use all the content provided by the hotel API feed, this includes but is not limited to rate information, hotel name/address, hotel details such as descriptive information, star rating, a list of nearby attractions, a list of directions from different points of interest, a list of the property’s amenities, etc.
 * It is expected that all hotel content presented by the partner will be the most current and up to date. The partner will be responsible for all associated costs as a result of stale content.
@@ -18,7 +18,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a id='rules' name='rules'></a>Business Rules
+### <a class='anchor' name='rules'></a>Business Rules
 
 * Rooms must be reserved under the name of the person checking into the room.
 * The reservation holder must be 21 years of age or older.
@@ -28,7 +28,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='search'></a>Hotel Search
+### <a class='anchor' name='search'></a>Hotel Search
 ![Hotel Search](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Hotel%20Search.png)
 =======
 
@@ -53,7 +53,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='results'></a>Results Page
+### <a class='anchor' name='results'></a>Results Page
 ![Results Page](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Hotel%20Results%20Page.png)
 =======
 
@@ -75,7 +75,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='details'></a>Hotel Details Page
+### <a class='anchor' name='details'></a>Hotel Details Page
 ![Hotel Details Page](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Hotel%20Details%20Page.png)
 =======
 
@@ -94,7 +94,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a id='contract' name='contract'></a>Contract Page
+### <a class='anchor' id='contract' name='contract'></a>Contract Page
 
 ![Contract Page](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Contract%20Page%20-%20Summary.png)
 
@@ -146,7 +146,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='confirmation'></a>Confirmation Page
+### <a class='anchor' name='confirmation'></a>Confirmation Page
 ![Confirmation Page](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Confirmation%20Page.png)
 =======
 
@@ -166,7 +166,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a id='email' name='email'></a>Confirmation Email
+### <a class='anchor' name='email'></a>Confirmation Email
 
 ![Confirmation Email](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Confirmation%20Email.png)![Confirmation Email Customer Info](https://raw.githubusercontent.com/darylmajul/ppn_documentation/Assets/Launch%20Requirements/Confirmation%20Email%20Customer%20Info.png)
 
