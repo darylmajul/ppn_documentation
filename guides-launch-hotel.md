@@ -6,9 +6,6 @@ Partners who join the Priceline Partner Network to sell inventory are required t
 
 These documents contains screenshots for illustration purposes only. The actual design of the pages is up to the partner; however, the required elements described below must be included in the design. Partners are encouraged to review the [ppndemo.com](https://secure.rezserver.com/home/?refid=2999) website to better understand the requirements below.
 
-###### In this document  
-[API Usage](#usage) | [Business Rules](#rules) | [Hotel Search](#search) | [Results Page](#results) | [Hotel Details Page](#details) | [Contract Page](#contract) | [Confirmation Page](#confirmation) | [Confirmation Email](#email)
-
 -----------
 
 ### <a id='usage' name='usage'></a>API Usage
