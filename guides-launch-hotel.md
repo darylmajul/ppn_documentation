@@ -171,7 +171,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 ### <a id='email' name='email'></a>Confirmation Email
 
-![Confirmation Email](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Confirmation%20Email.png)![Confirmation Email Customer Info](Assets/Launch%20Requirements/Confirmation%20Email%20Customer%20Info.png)
+![Confirmation Email](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Confirmation%20Email.png)![Confirmation Email Customer Info](https://raw.githubusercontent.com/darylmajul/ppn_documentation/Assets/Launch%20Requirements/Confirmation%20Email%20Customer%20Info.png)
 
 #### Required Information
 
