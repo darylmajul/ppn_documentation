@@ -31,8 +31,10 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a id='search' name='search'></a>Hotel Search
-![Hotel Search](Assets/Launch%20Requirements/Hotel%20Search.png)
+### <a name='search'></a>Hotel Search
+![Hotel Search](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Hotel%20Search.png)
+=======
+
 
 #### Requirements 
 
@@ -54,8 +56,10 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a id='results' name='results'></a>Results Page
-![Results Page](Assets/Launch%20Requirements/Hotel%20Results%20Page.png)
+### <a name='results'></a>Results Page
+![Results Page](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Hotel%20Results%20Page.png)
+=======
+
 
 * Show all the available hotels within a city/area
 * Typically a city level page listing all the available hotels in the city
@@ -74,8 +78,10 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a id='details' name='details'></a>Hotel Details Page
-![Hotel Details Page](Assets/Launch%20Requirements/Hotel%20Details%20Page.png)
+### <a name='details'></a>Hotel Details Page
+![Hotel Details Page](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Hotel%20Details%20Page.png)
+=======
+
 
 * Typically contains hotel name, address, description, amenities, reviews, ratings, etc.
 
@@ -93,7 +99,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 ### <a id='contract' name='contract'></a>Contract Page
 
-![Contract Page](Assets/Launch%20Requirements/Contract%20Page%20-%20Summary.png)
+![Contract Page](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Contract%20Page%20-%20Summary.png)
 
 #### Required Reservation Info
 
@@ -134,7 +140,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 #### Recommended Charge Information
 
 * Room Rate Nightly Breakdown
-![Room Rates](Assets/Launch%20Requirements/Contract%20Page%20-%20Room%20Rate.png)
+![Room Rates](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Contract%20Page%20-%20Room%20Rate.png)
   * When there is a rate change over stay, it is recommended to show the nightly breakdown. It will help ensure the customer is clear on the cancellation penalty.
 
 #### Required Customer Agreement Information
@@ -143,8 +149,10 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a id='confirmation' name='confirmation'></a>Confirmation Page
-![Confirmation Page](Assets/Launch%20Requirements/Confirmation%20Page.png)
+### <a name='confirmation'></a>Confirmation Page
+![Confirmation Page](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Confirmation%20Page.png)
+=======
+
 
 * All of the same information that is displayed on the Contract Page must also be displayed on the Confirmation Page. 
 
@@ -163,7 +171,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 ### <a id='email' name='email'></a>Confirmation Email
 
-![Confirmation Email](Assets/Launch%20Requirements/Confirmation%20Email.png)![Confirmation Email Customer Info](Assets/Launch%20Requirements/Confirmation%20Email%20Customer%20Info.png)
+![Confirmation Email](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Confirmation%20Email.png)![Confirmation Email Customer Info](Assets/Launch%20Requirements/Confirmation%20Email%20Customer%20Info.png)
 
 #### Required Information
 
@@ -191,7 +199,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 #### Additional Requirements
 
-![Additional Functions Review Cancel Reservation](Assets/Launch%20Requirements/Review%20Cancel%20Reservation.png)
+![Additional Functions Review Cancel Reservation](https://raw.githubusercontent.com/darylmajul/ppn_documentation/master/Assets/Launch%20Requirements/Review%20Cancel%20Reservation.png)
 
 * Review Reservation Page
     * Should display the same information as the confirmation page
