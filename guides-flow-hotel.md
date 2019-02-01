@@ -8,11 +8,11 @@ Get familiar with the proper booking flow for your site and where to use our API
 
 ##### Merchant 
 
-1. [AutoSuggestV2](http://localhost:8200/documentation/hotel#section/Authentication)  
+1. [AutoSuggestV2](https://admin-qaa.rezserver.com/documentation/hotel#section/Authentication)  
 Provide a list of suggested cities or airports based on the user's search input
 2. [ResultsWithCacheV2](#docs)  
 Retrieve cached rates and hotel IDs based on the user's search criteria
-3. [HotelDetails](http://localhost:8200/documentation/hotel#section/Authentication) (optional)  
+3. [HotelDetails](https://admin-qaa.rezserver.com/documentation/hotel#section/Authentication) (optional)  
 Retrieve all details about the property the user has selected
 4. [Rates.Live.Multi](#docs)  
 Displaying live property rates and availability for 1 or 2 hotel IDs
