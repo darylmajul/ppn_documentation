@@ -1,7 +1,3 @@
-## Hotel
-
-### Booking Flows
-
 Get familiar with the proper booking flow for your site and where to use our API data.
 
 #### Booking a Hotel Flow

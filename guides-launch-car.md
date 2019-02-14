@@ -1,7 +1,3 @@
-## Car
-
-### Launch Requirement
-
 Partners who join the Priceline Partner Network to sell inventory are required to meet certain display and technical requirements. Prior to the production launch of Priceline inventory, Priceline must certify and sign off that all requirements outlined in this document, and other documents as specified, have been met.
 
 These documents contains screenshots for illustration purposes only. The actual design of the pages is up to the partner; however, the required elements described below must be included in the design. Partners are encouraged to review the [ppndemo.com](https://secure.rezserver.com/home/?refid=2999) website to better understand the requirements below.

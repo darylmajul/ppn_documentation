@@ -1,5 +1,4 @@
 
-## Terminology
 
 #### Agency rates    
 Rates provided by the hotel that are publicly available (a.k.a. “rack rate”). The hotel will be the merchant of record for these reservations, as they are paid at the hotel. 
