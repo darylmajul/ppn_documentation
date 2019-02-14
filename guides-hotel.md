@@ -1,5 +1,3 @@
-## Hotel Guides
-
 ### Rate Types
 
 This API features two different types of rates, merchant and closed user group (CUG). The methods for implementing these are different.
