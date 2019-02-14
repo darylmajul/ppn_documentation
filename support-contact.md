@@ -1,5 +1,4 @@
 
 ## Contact Us
 
-1-555-555-5555  
-[partnersupport@priceline.com](mailto:partnersupport@priceline.com)
+Click [Here](https://pricelinepartnernetwork.com/contact) to contact us

@@ -1,11 +1,3 @@
-[Home](home.md) | [Getting Started](getting-started.md) | [Documentation](docs-air.md) | [Guides](guides-air.md) | [Updates](updates.md) | [Support](support.md)
-
-# Guides
-
-[Air](guides-air.md) | [Hotel](guides-hotel.md) | [Car Rentals](guides-car.md) 
-
-------------
-
 ## Car
 
 ### Launch Requirement
@@ -14,12 +6,9 @@ Partners who join the Priceline Partner Network to sell inventory are required t
 
 These documents contains screenshots for illustration purposes only. The actual design of the pages is up to the partner; however, the required elements described below must be included in the design. Partners are encouraged to review the [ppndemo.com](https://secure.rezserver.com/home/?refid=2999) website to better understand the requirements below.
 
-###### In this document  
-[Important Tips](#tips) | [Results Page](#results) | [Hotel Details Page](#details) | [Contract Page](#contract) | [Confirmation Page](#confirmation) | [Confirmation Email](#email)
-
 -----------
 
-#### <a name='tips'></a>Important Tips
+#### <a class='anchor' name='tips'></a>Important Tips
 
 - Use the specific API key and RefID provided for QA vs Production
 - Leave NOTHING out. If a function returns it, display it.
@@ -31,7 +20,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------  
 
-### <a name='results'></a>Results Page
+### <a class='anchor' name='results'></a>Results Page
 
 #### Display Requirements
 * Pickup/Dropoff information
@@ -44,7 +33,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='contract'></a>Contract Page
+### <a class='anchor' name='contract'></a>Contract Page
 
 #### Display Requirements
 * Policy information (hidden behind a click)
@@ -69,7 +58,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='success'></a>Success Page
+### <a class='anchor' name='success'></a>Success Page
 
 #### Display Requirements
 * Booking status
@@ -97,7 +86,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='email'></a>Confirmation Email
+### <a class='anchor' name='email'></a>Confirmation Email
 
 #### Display Requirements
 * Trip Id

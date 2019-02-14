@@ -1,4 +1,4 @@
-## hotel
+## Hotel
 
 ### Booking Flows
 
@@ -8,19 +8,19 @@ Get familiar with the proper booking flow for your site and where to use our API
 
 ##### Merchant 
 
-1. [AutoSuggestV2](https://admin-qaa.rezserver.com/developer/documentation/hotel#section/Authentication)  
+1. [AutoSuggestV2](/developer/documentation/hotel#/paths/~1getAutoSuggestV2/get)  
 Provide a list of suggested cities or airports based on the user's search input
 2. [ResultsWithCacheV2](#docs)  
 Retrieve cached rates and hotel IDs based on the user's search criteria
-3. [HotelDetails](https://admin-qaa.rezserver.com/developer/documentation/hotel#section/Authentication) (optional)  
+3. [HotelDetails](/developer/documentation/hotel#/paths/~1getHotelDetails/get) (optional)  
 Retrieve all details about the property the user has selected
-4. [Rates.Live.Multi](#docs)  
+4. [Rates.Live.Multi](/developer/documentation/hotel#/paths/~1getRates.Live.Multi/get)  
 Displaying live property rates and availability for 1 or 2 hotel IDs
-5. [ContractRequest](#docs)  
+5. [ContractRequest](/developer/documentation/hotel#/paths/~1getContractRequest/get)  
 Confirms the rate that the user has selected
-6. [BookRequest](#docs)  
+6. [BookRequest](/developer/documentation/hotel#/paths/~1getBookRequest/post)  
 Sends customer and payment information to confirm their property booking
-7. [BookDetails](#docs)  
+7. [BookDetails](/developer/documentation/hotel#/paths/~1getBookDetailsRequest/get)  
 Retrieves the post-book details
 
 ##### Closed User Group (CUG)
@@ -38,9 +38,9 @@ Passes user and payment information and responds with a success or fail
 
 ##### Merchant
 
-1. [BookDetails](#docs)  
+1. [BookDetails](/developer/documentation/hotel#/paths/~1getExpress.LookUp/post)  
 Gets the all details from the booking that was selected
-2. [CancelRequest](#docs)  
+2. [CancelRequest](/developer/documentation/hotel#/paths/~1getExpress.Cancel/get)  
 Cancels a booking
 
 #### Important Tips

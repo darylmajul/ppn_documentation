@@ -1,11 +1,3 @@
-[Home](home.md) | [Getting Started](getting-started.md) | [Documentation](docs-air.md) | [Guides](guides-air.md) | [Updates](updates.md) | [Support](support.md)
-
-# Guides
-
-[Air](guides-air.md) | [Hotel](guides-hotel.md) | [Car Rentals](guides-car.md) 
-
-------------
-
 ## Air
 
 ### Launch Requirement
@@ -14,12 +6,9 @@ Partners who join the Priceline Partner Network to sell inventory are required t
 
 These documents contains screenshots for illustration purposes only. The actual design of the pages is up to the partner; however, the required elements described below must be included in the design. Partners are encouraged to review the [ppndemo.com](https://secure.rezserver.com/home/?refid=2999) website to better understand the requirements below.
 
-###### In this document  
-[Air Search](#search) | [Results Page](#results) | [Contract Page](#contract) | [Booking Responses](#bookingresponses) | [Confirmation Page](#confirmation) | [Confirmation Email](#email) | [Lookup Reservation Page](#lookup)
-
 -----------
 
-### <a name='search'></a>Search Page
+### <a class='anchor' name='search'></a>Search Page
 
 #### Requirements
 
@@ -44,7 +33,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='results'></a>Results Page
+### <a class='anchor' name='results'></a>Results Page
 
 #### Requirements
 * Notification that many airlines charge extra for **baggage fees**
@@ -93,7 +82,7 @@ These documents contains screenshots for illustration purposes only. The actual 
 
 -----------
 
-### <a name='contract'></a>Contract Page
+### <a class='anchor' name='contract'></a>Contract Page
 
 The contract page is the last step before the reservation is made.  It must clearly display what the consumer agreed to purchase, the name & preferences of the passenger, the billing information, the agreed charges, and the credit card to be used.
 
@@ -310,7 +299,7 @@ Example:
 
 -----------
 
-### <a name='bookingresponses'></a>Booking Responses
+### <a class='anchor' name='bookingresponses'></a>Booking Responses
 
 The general outline of responses is as follows:
 
@@ -338,7 +327,7 @@ The general outline of responses is as follows:
 
 -----------
 
-### <a name='confirmation'></a>Confirmation Page
+### <a class='anchor' name='confirmation'></a>Confirmation Page
 
 * The customer will receive two charges on their credit card:  
   * One for the ticket (carrier is MOR)
@@ -356,12 +345,12 @@ The general outline of responses is as follows:
 
 -----------
 
-### <a name='email'></a>Confirmation Email
+### <a class='anchor' name='email'></a>Confirmation Email
 
 **MUST contain ALL the same information as confirmation page.**
 
 -----------
 
-### <a name='lookup'></a>Lookup Reservation Page
+### <a class='anchor' name='lookup'></a>Lookup Reservation Page
 
 Must give the customer the ability to look up reservation and view a version of the confirmation page.  Lookup reservation must include trip ID and customer email.  Lookup reservation page must contain the option to resend the itinerary to customers email.
